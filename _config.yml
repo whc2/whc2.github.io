@@ -1,28 +1,28 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+title: HC Blog
+SEOTitle: hengchao的博客 | HC Blog
+header-img: img/post-bg-desk.jpg # backgroud picture in home
+email: hnbtnn@gmail.com | wanghc992@gmail.com
+description: "实事求是、循序前进"
+keyword: "HC, hengchao Blog, bioinformatics, metagenome"
+url: "http://whc2.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "做学问不是猎奇，也不是快速搜罗信息。做学问，是一点一点地积累，在他人工作的基础上，拨开前面让人看不清楚的杂草，细细地分析；用理性拷问自己，拷问先人；然后，向前小心翼翼地放一块小小的新石头，让后人踩着，不摔下来。"
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#zhihu_username:     qiubaiying
+github_username:    whc2
+facebook_username:  Wang Hengchao
+#jianshu_username:   
 #twitter_username:   qiubaiying
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: wanghengchao
 
 # Gitalk
 gitalk:
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-112620417-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto #qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,9 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
