@@ -1,13 +1,13 @@
 # Site settings
-title: HC Blog
-SEOTitle: hengchao的博客 | HC Blog
+title: empty & blight
+SEOTitle: 空明阁
 header-img: img/post-bg-desk.jpg # backgroud picture in home
 email: hnbtnn@gmail.com | wanghc992@gmail.com
-description: "实事求是、循序前进"
-keyword: "HC, hengchao Blog, bioinformatics, metagenome"
+description: "山间的小溪总是吵闹，浩瀚的大海从不喧嚣。"
+keyword: "scientists, bioinformatics, metagenome"
 url: "http://whc2.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/whc2/whc2.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -23,7 +23,7 @@ RSS: false
 github_username:    whc2
 facebook_username:  Wang Hengchao
 #jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:  
 
 
 
@@ -78,7 +78,7 @@ disqus_username: wanghengchao
 
 # Google Analytics
 ga_track_id: 'UA-112620417-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto #qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: whengchao.top #qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
