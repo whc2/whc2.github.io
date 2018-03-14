@@ -4,7 +4,7 @@ SEOTitle: 空明阁
 header-img: img/post-bg-desk.jpg # backgroud picture in home
 email: hnbtnn@gmail.com | wanghc992@gmail.com
 description: "山间的小溪总是吵闹，浩瀚的大海从不喧嚣。"
-keyword: "scientists, bioinformatics, metagenome"
+keyword: "genomics, scientists, bioinformatics, metagenome"
 url: "http://whc2.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/whc2/whc2.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/whc2/whc2.github.io.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "做学问不是猎奇，也不是快速搜罗信息。做学问，是一点一点地积累，在他人工作的基础上，拨开前面让人看不清楚的杂草，细细地分析；用理性拷问自己，拷问先人；然后，向前小心翼翼地放一块小小的新石头，让后人踩着，不摔下来。"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: # /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -97,15 +97,15 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+#friends: [
+#    {
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },{
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },{
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
+#]
