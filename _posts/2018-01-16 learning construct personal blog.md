@@ -3,6 +3,9 @@ layout:       post
 title:        construct personal blog fastly
 subtile:      clone template for learning
 date:         2018-01-16
+catalog: true                       # 是否归档
+tags:                               #标签
+  -blog
 author:       HC
 ---
 
