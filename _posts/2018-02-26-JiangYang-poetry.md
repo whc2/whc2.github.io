@@ -10,7 +10,6 @@ tags:
     - minds
 ---
 
-## begin
 # Dying Speech of an Old Philosopher
 BY WALTER SAVAGE LANDOR
 I strove with none, for none was worth my strife: 
