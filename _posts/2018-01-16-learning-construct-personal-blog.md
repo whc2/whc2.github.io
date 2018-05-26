@@ -9,7 +9,8 @@ tags:                               #标签
   - blog
 ---
 
-# preface
+#preface
 > the first blog
 以前试了很多次，终于成功构建了博客。
-form https://www.jianshu.com/p/e68fba58f75c 
+
+from [BY](https://www.jianshu.com/p/e68fba58f75c)
