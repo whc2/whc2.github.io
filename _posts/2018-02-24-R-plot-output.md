@@ -4,7 +4,7 @@ title:  pdf output or svg output by R plot
 subtitle:   there is issue to use pdf in AI
 date:   2018-02-24
 author: HC
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - blog

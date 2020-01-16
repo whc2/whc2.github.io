@@ -4,7 +4,7 @@ title: aphorism by JiangYang
 subtitle:   compete or not
 date:   2018-02-26
 author: HC
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - minds

@@ -4,7 +4,7 @@ title:  some ideas from recent events
 subtitle:   do more & faster
 date:   2019-08-16
 author: HC
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - blog

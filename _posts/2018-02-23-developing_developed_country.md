@@ -4,7 +4,7 @@ title:  The diff between developing & developed country
 subtitle:   The gap is huge.
 date:   2018-02-23
 author: HC
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - blog
