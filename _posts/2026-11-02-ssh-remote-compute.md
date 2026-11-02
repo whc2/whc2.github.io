@@ -22,7 +22,6 @@ I want to use VS Code to do bioinformatics work on compute node, instead of logi
 >>> 验证：运行 ssh-add -l，如果终端打印出了密钥的指纹信息和路径，说明加载成功。
 
 3. 修改.ssh/config 配置文件:
-```
 Host shuguang
     HostName 66666.com
     User wang666
@@ -35,8 +34,9 @@ Host compute
     User wang666
     ProxyJump shuguang
     ForwardAgent yes
-```
+
 >>> 验证：保存文件后，在本地 PowerShell 中手动测试输入 ssh compute。或VS Code连接compute。
+```
 
 Enjoy, hope it will be usefull.
 
