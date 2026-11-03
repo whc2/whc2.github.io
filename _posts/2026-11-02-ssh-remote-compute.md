@@ -36,6 +36,13 @@ Host compute
     ForwardAgent yes
 
 >>> 验证：保存文件后，在本地 PowerShell 中手动测试输入 ssh compute。或VS Code连接compute。
+
+4. 重新获得计算资源计算节点的ip后不同。根据以下方式设置即可。
+    分配一个交互式的资源：salloc -p your_partation -N 1 -c 3
+    查看分配的计算节点：squeue
+    查看该计算节点的ip：grep 'b02r2n15' /etc/hosts
+    在vs code的remote explorer中选择ssh的设置，修改compute的HostName为10.2.2.36。
+
 ```
 
 Enjoy, hope it will be usefull.
